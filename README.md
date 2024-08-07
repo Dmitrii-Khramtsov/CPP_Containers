@@ -1,6 +1,6 @@
 # CPP_Containers
 
-Implementation of the s21_containers.h. library.
+The group project in which I implemented container classes: `map`, `set` and `multiset`.
 
 ## Contents
 
