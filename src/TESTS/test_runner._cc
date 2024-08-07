@@ -1,0 +1,10 @@
+# Этот файл не нужен, если гугл тесты собираются с атрибутом -lgtest_main
+
+#include "test_runner.h"
+
+using namespace std;
+
+int main(int argc, char **argv) {
+  testing::InitGoogleTest(&argc, argv);
+  return RUN_ALL_TESTS();
+}
